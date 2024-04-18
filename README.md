@@ -1,4 +1,4 @@
-# Meu Projeto
+# Projeto RocketSeat
 
 O Pomodoro Timer é um aplicativo inspirado na técnica Pomodoro, que é uma maneira simples de ajudar a gerenciar seu tempo e manter o foco nas tarefas. Com este aplicativo, você divide o seu trabalho em períodos curtos chamados "pomodoros", seguidos por pausas curtas. Essa abordagem pode melhorar a sua produtividade e tornar o trabalho mais eficiente.
 
